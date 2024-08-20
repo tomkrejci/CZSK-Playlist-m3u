@@ -17,9 +17,3 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Show Ⓖ" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="Czech Republic",Prima Show Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Óčko Ⓢ" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="Czech Republic",Óčko Ⓢ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Star Ⓢ" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="Czech Republic",Óčko Star Ⓢ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Expres Ⓢ" tvg-logo="https://i.imgur.com/e731JNS.png" tvg-id="OckoExpres.cz" group-title="Czech Republic",Óčko Expres Ⓢ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
